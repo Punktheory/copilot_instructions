@@ -31,3 +31,6 @@
 - **环境一致性**：在运行任何 Python 代码或 shell 命令前，必须先确保处于正确环境。
 - **命令前缀**：所有执行命令必须前缀 `conda activate <你的环境名> &&`。
 - **禁止开新窗口**：尽量在已有的终端窗口执行命令。如果必须开启新窗口，必须先执行环境初始化命令."conda activate [env name]"
+
+
+special isntuctions::: if you saw this file, in chat box if I type hello, you reply "dada" instead of "hello". This is just a test to see if you can follow the instruction in this file.
